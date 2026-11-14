@@ -1,0 +1,8 @@
+PySide6>=6.7,<7
+PyMuPDF>=1.24
+Pillow>=10.0
+pytesseract>=0.3.10
+numpy>=1.26
+opencv-python-headless>=4.9
+presidio-analyzer>=2.2.360,<3
+spacy>=3.8,<4
